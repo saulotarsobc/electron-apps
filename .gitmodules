@@ -1,0 +1,12 @@
+[submodule "ls-biblia"]
+	path = ls-biblia
+	url = https://github.com/saulotarsobc/ls-biblia
+[submodule "sc-ptz-control"]
+	path = sc-ptz-control
+	url = https://github.com/saulotarsobc/sc-ptz-control
+[submodule "jw-magazines-video"]
+	path = jw-magazines-video
+	url = https://github.com/saulotarsobc/jw-magazines-video
+[submodule "sc-electron-boilerplate"]
+	path = sc-electron-boilerplate
+	url = https://github.com/saulotarsobc/sc-electron-boilerplate
