@@ -1,2 +1,4 @@
 /node_modules
 /dist
+/helpers/NetSDK 3.050
+/helpers/PlaySDK 3.042
