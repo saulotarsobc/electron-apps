@@ -16,5 +16,6 @@
       "file": "/.github/commit.md"
     }
   ],
-  "js/ts.tsdk.path": "node_modules/typescript/lib"
+  "js/ts.tsdk.path": "node_modules/typescript/lib",
+  "cmake.ignoreCMakeListsMissing": true
 }
